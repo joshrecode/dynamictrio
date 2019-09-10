@@ -48,7 +48,7 @@ header {
     display: inline-block;
     margin: 2em 2em; 
     padding: 1em;
-    border: 1px rgb(88,1,255) solid;
+    border: 1px #000000 solid;
 }
 .card h1, .card button  {
     margin-bottom: 0.5em;
